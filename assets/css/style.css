@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    background-image: url('https://source.unsplash.com/user/erondu/500x500?lanscape');
+    background-size: cover;
+    background-position: center;
+} */
+
+.gambar{
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.gambar img{
+    width: 700px;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.form-group{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.daftar-absen{
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
